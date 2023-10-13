@@ -1,0 +1,50 @@
+body{
+    color: aquamarine;
+    background-image: url(imagens/musica.jpg);
+
+
+}
+
+section{
+    font-size: 1.9rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 1rem;
+    margin: 0.3rem;
+    border-radius: 0.6rem;
+    width: 35%;
+}
+
+fieldset{
+    border: 3px solid rgb(247, 162, 88);
+    font-size: larger;
+    padding: 1.2rem;
+    margin: 0.6rem;
+}
+
+label{
+    display: block; 
+}
+
+fieldset form input{
+    border: none;
+    border-radius: 0.2rem;
+    font-size: 25px;
+    width: 100%;
+}
+
+button{
+    background-color: rgb(247, 162, 88);
+    width: 30%;
+    border-radius: 0.4rem;
+}
+
+a{
+    
+    text-decoration: none;
+    font-size: 20px;
+
+}

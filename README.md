@@ -1,2 +1,2 @@
 # GerencArquivosGilva
- Aplicativo para genrençiamento de arquivos de midias, PDFs, partituras etc
+ Aplicativo para gerenciamento de arquivos de midia, PDF, e partituras.

@@ -1,0 +1,49 @@
+body{
+    color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(imagens/musica.jpg);
+}
+
+section{
+    font-size: 1.8rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 0.8rem;
+    margin: 0.1rem;
+    border-radius: 0.6rem;
+    width: 35%;
+}
+
+fieldset{
+    border: 3px solid rgb(247, 162, 88);
+    font-size: larger;
+    padding: 1.2rem;
+    margin: 0.6rem;
+}
+
+label{
+    display: block; 
+    font-size: 1.5rem;
+}
+
+fieldset form input{
+    border: none;
+    border-radius: 0.2rem;
+    font-size: 25px;
+    width: 100%;
+}
+
+.enviar{
+    background-color: rgb(247, 162, 88);
+    width: 40%;
+    border-radius: 0.6rem;
+}
+
+button a {
+    text-decoration: none;
+    font-size: 20px;
+
+}
